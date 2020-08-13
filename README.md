@@ -24,7 +24,3 @@ We will be breaking up the world map, and will need people to organize into smal
 -people need to say we aren't going to finish so we can make them feel dumb when we finish
 -people getting mad that their idea wasn't popular and making anger rants so we can laugh at them.
 
-shit opening
-psd for Wes and Jay on folder "_source" and stance pictures on \img\pictures
-sprite templates on vrpg\img\characters  "1_templates.png"
-I didn't remove the default assets so others can use them as foundation to make new ones.
