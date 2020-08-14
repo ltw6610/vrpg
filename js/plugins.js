@@ -26,5 +26,6 @@ var $plugins =
 {"name":"HIME_LevelUpEvents","status":true,"description":"Allows you to run common events when an actor levels up","parameters":{}},
 {"name":"SRD_SkillExtender","status":true,"description":"Allows developers to create skills that prompt players to make a second input after the original skill input.","parameters":{"Default Style":"skill","Default Width":"360","Default Align":"center","Extend Skills Help":"true","Max Rows":"6"}},
 {"name":"ALOE_ConditionalChoices","status":true,"description":"v1.2.0\r\nDefine conditions to hide or disable choices in the event menu","parameters":{"patternStart":"<<","patternEnd":">>"}},
-{"name":"PKD_VPlayer","status":true,"description":"v1.1 - Extended WEBM Video Player","parameters":{}}
+{"name":"PKD_VPlayer","status":true,"description":"v1.1 - Extended WEBM Video Player","parameters":{}},
+{"name":"YEP_EventChasePlayer","status":true,"description":"v1.07 When a player is in the proximity of a certain event,\nthe event will start chasing or fleeing from the player.","parameters":{"Sight Lock":"300","See Player":"true","Alert Timer":"120","Alert Balloon":"1","Alert Sound":"Attack1","Alert Common Event":"0","Return After":"true","Return Wait":"180"}}
 ];

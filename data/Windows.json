@@ -1,1 +1,1 @@
-{}
+{"Scene_Menu":{"Window_MenuCommand":{"x":0,"y":0},"Window_Gold":{"x":0,"y":728},"Window_MenuStatus":{"x":240,"y":0}},"Scene_Battle":{"Window_MenuStatus":{},"Window_BattleStatus":{"x":192,"y":620},"Window_ActorCommand":{"x":0,"y":620}}}
