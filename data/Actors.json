@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":7,"characterName":"People3","classId":5,"equips":[5,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Wes","nickname":"","note":"<level up event: 13>","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"temporal jay","classId":3,"equips":[3,1,2,3,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jay","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Actor1_1","characterIndex":7,"characterName":"People3","classId":5,"equips":[5,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Wes","nickname":"","note":"<level up event: 13>","profile":""},
+{"id":2,"battlerName":"jay battle","characterIndex":0,"characterName":"temporal jay","classId":3,"equips":[3,1,2,3,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jay","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]

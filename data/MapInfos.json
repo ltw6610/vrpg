@@ -1,11 +1,19 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1622,"scrollY":1690},
-{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":1,"scrollX":1638,"scrollY":926},
+{"id":1,"expanded":true,"name":"World map (1)","order":1,"parentId":0,"scrollX":1648,"scrollY":1554},
+{"id":2,"expanded":false,"name":"Castle (2)","order":2,"parentId":1,"scrollX":1638,"scrollY":926},
 {"id":3,"expanded":false,"name":"MAP003","order":3,"parentId":2,"scrollX":1638,"scrollY":926},
 {"id":4,"expanded":false,"name":"MAP004","order":4,"parentId":2,"scrollX":1638,"scrollY":926},
-{"id":5,"expanded":false,"name":"MAP005","order":5,"parentId":1,"scrollX":1638,"scrollY":926},
-{"id":6,"expanded":true,"name":"MAP006","order":6,"parentId":1,"scrollX":1638,"scrollY":926},
+{"id":5,"expanded":false,"name":"Introduction (5)","order":5,"parentId":1,"scrollX":1638,"scrollY":926},
+{"id":6,"expanded":false,"name":"Main house (6)","order":6,"parentId":1,"scrollX":1638,"scrollY":926},
 {"id":7,"expanded":false,"name":"MAP007","order":7,"parentId":6,"scrollX":1638,"scrollY":926},
-{"id":8,"expanded":false,"name":"MAP008","order":8,"parentId":1,"scrollX":1638,"scrollY":926}
+{"id":8,"expanded":false,"name":"First town (8)","order":8,"parentId":1,"scrollX":1638,"scrollY":926},
+{"id":9,"expanded":false,"name":"MAP009","order":9,"parentId":1,"scrollX":1638,"scrollY":926},
+{"id":10,"expanded":false,"name":"MAP010","order":11,"parentId":11,"scrollX":1638,"scrollY":926},
+{"id":11,"expanded":false,"name":"Passage (11)","order":10,"parentId":1,"scrollX":1638,"scrollY":926},
+{"id":12,"expanded":false,"name":"MAP012","order":12,"parentId":11,"scrollX":1638,"scrollY":926},
+{"id":13,"expanded":false,"name":"MAP013","order":13,"parentId":11,"scrollX":1638,"scrollY":926},
+{"id":14,"expanded":false,"name":"MAP014","order":14,"parentId":11,"scrollX":1638,"scrollY":926},
+{"id":15,"expanded":false,"name":"MAP015","order":15,"parentId":11,"scrollX":1638,"scrollY":926},
+{"id":16,"expanded":false,"name":"MAP016","order":16,"parentId":11,"scrollX":1622,"scrollY":1042}
 ]
