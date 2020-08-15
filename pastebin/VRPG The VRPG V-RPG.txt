@@ -1,0 +1,365 @@
+PLOT
+An ancient evil awakens. A prophecy says only an older brother and his imouto can defeat him, and so our protagonists, Wes and Jay, set off to defeat the evil. Joined by boardtans, Our heroes travel through the world, gathering power and friends to defeat the ancient evil. The evil is confronted and is revealed to be Todd Howard, who wishes to turn all of reality in a port of Skyrim. Protags defeats him, and the world is saved. 
+(Maybe) Because you cannot climb mountains in DQ1, and Skyrim is incredibly mountainous, this would result in the end of the world as everyone would starve to death. 
+ 
+ 
+Don't forget:
+? The game will be silly, but have serious moments that cover loneliness, depression, lack of motivation and other topics.
+ (This not difficult to implement in the least)
+ 
+ 
+ 
+ 
+REMEMBER!
+***NOTHING IS SET IN STONE***
+Don't like something? Tell me!
+I'm writing for you, not me.
+ 
+ 
+ 
+ 
+This is not meant to be a carbon copy of DQ1. 
+It's meant to take inspiration from it, other DQ games, and other RPGS.
+ 
+ 
+ 
+-Plot point
+	/Explanation
+ 
+ 
+ 
+ 
+The plot follows the 12 stages of the Hero's journey.
+This is a very popular method of storytelling, and can be observed in a lot of media, From the Wizard of Oz to DQ11.
+ 
+If you're unfamiliar, the 12 stages are:
+1 The Ordinary World (The Locker Room)
+2 Call To Adventure (Hey Buddy I think you got the wrong door)
+3 Refusal of the Call (Fuck you)
+4 Meeting the Mentor 
+5 Crossing the Threshold (Ah, Fuck you Leatherman)
+6 Tests, Allies, and Enemies (Maybe you and I should settle it right here on the ring if you're so tough)
+7 Approach the Innermost Cave 
+8 The Supreme Ordeal (I'll show you who's the boss of this Gym)
+9 The Reward, Seizing the Sword
+10 The Road Back
+11 Death, and then Resurrection (When all hope seems lost, triumph) 
+12 Return with the Trophy
+ 
+ 
+Need to map out their Journey before I write it.
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________________________________________________________________________________
+1 The Ordinary World (The Locker Room)
+_______________________________________________________________________________________________________________________________________
+The home of Wes and Jay.
+Wes and Jay live with Moe and Hoe. 
+Hoe is not currently present. 
+Moe is engrossed in an MMO. Of course. 
+Jay is using Wes' PC without his knowledge. 
+Wes is practicing clipping through walls with a wooden plate. 
+ 
+ 
+ 
+ 
+_______________________________________________________________________________________________________________________________________
+2 Call To Adventure (Hey Buddy I think you got the wrong door)
+_______________________________________________________________________________________________________________________________________
+Jay break's Wes' computer while attempting to buy enchanted body pillows on tor using Dogecoin.
+They're forced to go in search of /g/ to repair Wes' PC. 
+Along the way Wes and Jay are told they are the only ones who can defeat the Ancient Evil. 
+They are sidetracked by this. 
+Maybe Jay mentions to Wes he shouldn't get off sidetracked on sidequests but he ignores her, or tells her "It's the Journey, not the destination".
+How is this information conveyed to them?
+Could just do the easy thing and have a messenger tells them the King wants to speak with them. That would be pretty straightforward.
+ 
+They arrive in the castle, the King tells them the prophecy. 
+Wes immediately asks what the reward is.
+King and Jay are caught off guard, because if Jay and Wes don't do this, everyone dies, including them.
+King tells them "The entire kingdom will revere them as heroes" or some shit like that. 
+Jay is ecstatic
+ 
+ 
+ 
+ 
+_______________________________________________________________________________________________________________________________________
+3 Refusal of the call (Fuck you)
+_______________________________________________________________________________________________________________________________________
+Wes:  https://www.youtube.com/watch?v=O9iqsQ283kQ
+King is troubled. Jay is at a loss for words. 
+Wes does multiple barter checks. This doesn't need to be programmed in to have the option of doing a barter check. Just have it as
+[Barter 50] etc etc etc, [Barter 75] etc etc etc,  [Barter 100] etc etc etc. 
+King offers Wes and Jay something substantial. Access to the entire Kingdom's Armoury.
+He also convinces Wes not to ignore this, because if the world ended, the little old lady down the road wouldn't be able to bake him cookies anymore. 
+Wes reluctantly accepts.
+Wes and Jay leave, they make their way back home to get their equipment before going on the quest.
+ 
+ 
+It's revealed later that king is actually a much older /qst/?
+_______________________________________________________________________________________________________________________________________
+4 Meeting the Mentor
+_______________________________________________________________________________________________________________________________________
+-The town advises you and gives you items to prepare you for your journey outside, including [Shopkeeper] who runs the general store. [Shopkeeper] will likely act as the mentor here. Advises Wes and Jay. Tells them it's dangerous to be alone these days, stick together.
+	/ Gives some character to the town, introduce the importance of talking to secondary NPCs with items, tips, and a meme or two.
+	/ Foreshadowing. Moe is alone.
+ 
+-Todd (name should be changed to sustain mystery) is a local shopkeeper, maybe has a smith of some kind. A member of the community.
+	/ Seeing antagonist early facilitates him changing over time and creates context for future meetings.
+ 
+-Todd should be present when Wes and Jay arrive, but gone when they finish speaking with the King. Anyone who Wes and Jay ask about this will say he departed separately from the village to pursue the ancient evil. Generic comments about how he's got a good heart. 
+	/ Regardless of what he's said to people, he does not have an alibi for the destruction of Wes and Jay's home. 
+ 
+-At some point, it's revealed Todd used to spend his free time as an artist. (Conversation with NPC/other member of party about him leaving the village.) Painter, smithy, etc. 
+	/ Foreshadowing, a chance for memes. 
+ 
+_______________________________________________________________________________________________________________________________________
+5 Crossing the Threshold (Ah, Fuck you Leatherman)
+_______________________________________________________________________________________________________________________________________
+-Wes and Jay return to find their house has been destroyed in their absence, and someone running the other direction.
+	/Bit of a trope, protags leave their home and it's destroyed, but it's a good way of progressing the story, so I've used it.
+ 
+-All that is revealed is the silhouette of /v/. 
+	/The only time /v/ is seen before his fight. It is not apparent Todd is controlling him until the party actually fights him.
+ 
+-The home has collapsed, destroying most of their things, and killing Moe. 
+	/This makes things personal for Wes and Jay.
+ 
+-Some of their more valuable items are also missing entirely. 
+	/Foreshadowing, for when Todd fights them kitted out in this gear. It's immediately obvious he was behind this, without 					 
+  	explicitly stating it.
+"No one kills my Moe"
+ 
+They search the ruins of their home for anything useful that hasn't been destroyed, and Jay finds a Necromancy potion belonging to Moe.
+Jay pours it on Moe's body, and she comes back, but only as a skeleton! Origin story! 
+ 
+Note from anon: The potion should be like a really on the nose chekov's gun thing. Like moe says "I love you both. And my necromancy potion of unlife, I love it too" or something
+ 
+-*Achievement unlocked* [Ain't that a kick in the head]
+	/References are fun. Recommend any classic achievements you want to see in the game to me, I'll see if I can work them in.
+ 
+ 
+ 
+_______________________________________________________________________________________________________________________________________
+6 Tests, Allies, and Enemies (Maybe you and I should settle it right here on the ring if you're so tough)
+_______________________________________________________________________________________________________________________________________
+-The first goal is a village to the east, the next destination on the way towards the ancient evil.
+	/ Getting an adventure started.
+ 
+-On the way East, the duo find the bridge destroyed. With the ancient evil awakened, a faction seemingly prepared has emerged to burn the bridge. 
+	/ First leveling section. Builds mystery.
+ 
+-Todd has made it to the bridge first with a wagon of his goods. /tg/ is there, chatting with [Unspecified Individual] about military tactics. It is mentioned to the party that they may be able to find help in the east to cross the bridge.
+	/ Spot to buy items.
+ 
+-Arriving at the town in the NE, a [Recurring Antagonist 1] is caught in the grip of the first boss, [Unspecified Monster 1]. [Unspecified Monster 1] spots Party, changes focus. [Unspecified Monster 1] Dialogue here. Boss fight begins.
+	/ First boss.
+ 
+-Upon victory, [Recurring Antagonist 1] thanks you for saving him. [Recurring Antagonist 1] calls in a favour and tells the Party that they'll be able to cross the bridge now.
+	/ Progression.
+ 
+-Back at the bridge, a group of large workers on the payroll of [Recurring Antagonist 1] have formed. [Recurring Antagonist 1] is not there. The workers are strong and hate working for [Recurring Antagonist 1]. The bridge for Todd will take days, but for the party an especially large lumberjack fells a large tree and secures it to cross the river. 
+	/ Enter new area of the continent. Additional party member can join here. Opportunity to introduce /diy/, should Board Tans be 		 
+ 	involved. Side character works to build world- Always someone stronger than the protagonists, and in this scenario it's just 
+  	some lumberjack.
+ 
+-The Eastern Village is overtly confident in a new hero that has arisen and is on their way towards the ancient evil. To the citizens, the issue is already dealt with. A Bishops Guild is in this town, where the party might discover their financial purpose, a guild of connections that benefit every trader. 
+	/ Interesting development, subverts plot. Introduces a worldly faction. Builds world- this isn't just a bunch of random people 
+  	in random places, this is an interconnected Kingdom. Good opportunity for character personality to come through, as of now 
+  	they've encountered two people who are stronger + an opportunity to be lazy and leave the ancient evil to the hero.
+ 
+-The party asks around to see if they can help at all. A leader of the village, [Recurring Antagonist 2], well tied into the Bishops Guild, scoffs and tells them there's been some people going missing on the mountain, they should make themselves useful and investigate. Make it abundantly clear that [Recurring Antagonist 2] doesn't care if they die. 
+	/ Chance for character personality. Second leveling section. New environment to match new town. Chance to introduce a new party 
+  	member at the base of the mountain who joins the climb.
+ 
+-Before reaching the peak, boss climbs up from the side of the mountain shrouded in cloud before leaping at the party.
+	/ Second boss. Maybe builds mystery, a bit of a stretch in this context.
+ 
+-After the boss, the party looks beyond to see something in the distance symbolizing the ancient evil (fountain of odd light, etc.). The land, way out there, is slowly but surely changing in pallet. The color is growing from the source.
+	/ Keep in touch with goal. Good moment for character's thoughts on the hero and ancient evil.
+ 
+-A crack of thunder over ancient evil, a fire in the next city over.
+	/ New goal. If this is made to be the city they fought the boss in front of, it makes the player actually feel something 		 	 
+ 	because they saw the location before it was torched. Could make Rat Hitler the sole survivor of this town.
+ 
+-Descending down below, Todd can be seen being chased by humanoid figures. The gang intercept. 
+	/ New type of enemy. Keep in touch with Todd. Foreshadowing for later confrontation.
+ 
+-Behind Todd's escape lie several other humanoid figures, slain by Todd unbeknownst to the party.
+	/ Favorite anime trope. Todd is powerful, but the characters won't know that until it's too late.
+ 
+-Todd had to abandon the majority of his goods. He decides to go to the Eastern Village to interact with the Bishop Guild.
+	/ Stock up before moving towards new goal.
+ 
+-The party head towards the Village on Fire.
+	/ Third leveling section.
+ 
+_______________________________________________________________________________________________________________________________________
+7 Approach the Innermost Cave
+_______________________________________________________________________________________________________________________________________
+Leading up to facing Todd the first time.
+ 
+The innermost cave is a bit like World 8 in super mario bros, you dig?
+It's the build up to fighting the bbeg. 
+ 
+ 
+ 
+_______________________________________________________________________________________________________________________________________
+8 The Supreme Ordeal (I'll show you who's the boss of this Gym)
+_______________________________________________________________________________________________________________________________________
+The Heroes fight Todd, and triumph over him.
+ 
+Todd will be geared up, Hammer of Song in hand, etc, but he'll still look like a normal human being, for the most part. 
+Todd's Gear is partially composed of the items that were missing from the home of Wes, Jay, Moe, and Hoe. 
+ 
+ 
+ 
+_______________________________________________________________________________________________________________________________________
+9 The Reward, Seizing the Sword
+_______________________________________________________________________________________________________________________________________
+They regain the Hammer of Song.
+People rejoice, the world has been saved.
+Wes and Jay are heroes.
+The King gives them their rewards. 
+ 
+It could be a seemingly useless item that does nothing right until the very end which Wes uses to do the console gag everyone has been asking for.
+ 
+You could have a scene where the king offers like his entire treasury, full of legendary items making Jay salivate, but then Wes just picks up one weird cylinder-item that just says "MO"
+ 
+Then, once Todd Howard becomes Godd Howard, he drops one of his D's, which the party obtains as an Item as Todd becomes God Howard.
+ 
+Wes later uses that dropped D on the incomplete item, forming MOD, cuing into a scene like
+>What will you, players be, without us devs!? Bow down to us and become Skyrim!
+>We players do not need devs! We never needed them! No, we will become devs yourselves!
+>Wes uses MOD
+ 
+ 
+ 
+_______________________________________________________________________________________________________________________________________
+10 The Road Back
+_______________________________________________________________________________________________________________________________________
+The Heroes go to a cemetery to mourn those that they lost over their adventure. 
+ 
+They see /v/, for the first time in the game 
+/v/ is undead
+/v/ has Todd's severed head, and is digging up m00t's grave
+/v/ throws the head into moots grave, then https://youtu.be/X4monaBsyfg?t=182
+ 
+ 
+ 
+ 
+_______________________________________________________________________________________________________________________________________
+11 Death, and then Resurrection (Things become incredibly bleak. Nevertheless, in the end, the heroes triumph.)
+_______________________________________________________________________________________________________________________________________
+Todd absorbs m00t
+Todd gains absolute power
+Todd ports too many ero mods into reality, creating the coomlands???
+ 
+ 
+At some point during this interaction, the Hammer of Song taken back by /v/ or Todd or whoever is allied with them.
+ 
+Heroes need to kill the Coomer to gain access to the coomlands
+Literal hell
+Only people happy are the nsfw board tans
+COOMLANDS?????
+The Coomer is the guardian of the coomlands. In order to enter, you must defeat him first. Upon entering, you can then interact with the nsfw tans and see what has happened to the world. 
+ 
+ 
+They make it through
+Kill more enemies
+Fight /v/, defeat /v/
+(I want to include something about /v/ infecting /a/ and taking control of it, due to the relationship the boards have)
+When /v/ weakens, /a/ is able to free itself from /v/'s control)
+ 
+/v/ will be right about to kill Wes, Jay, and friends,
+But then
+/a/ sacrifices itself to kill /v/ 
+It'll be like super sad you'll cri ;-;
+ 
+ 
+True final boss fight
+Godd Howard
+ 
+Wes and Jay defeat him by adding so many mods Skyrim Crashes?
+Like ah, water. You need water to survive, but you can still drown in it. 
+They drown him in his own bugs and glitches. 
+ 
+"What brought life into his games now takes it from him"?
+ 
+ 
+I want Moe to make a Hunt down the freeman reference for shits and giggles, because it's thanks to Todd she's a Skeleton.
+"You fucked up my face"
+https://youtu.be/f2x94k7bHc0?t=20
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________________________________________________________________________________
+12 Return with the Trophy
+_______________________________________________________________________________________________________________________________________
+They get the Hammer of song, and need to bring it to somewhere. 
+Maybe they could give it to /k/, because he's the only one they can trust with this weapon?
+/k/ lives innawoods, inside a shack, that surrounded with elaborate traps.
+Shack leads down to a bunker. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________________________________________________________________________________
+Note to self: Would be really fucking stupid to focus too much on the epilogue before you write the story.
+ 
+Epilogue?????????????????
+Wes and Jay find /g/-tan's cave/basement/home.
+He's in the dark illuminated by only the glow of a monitor. 
+He's sitting at a desk, facing away from Wes and Jay.
+Wes says something about his computer being busted. 
+/g/ just repeats install Gentoo every time you try to talk to him. 
+Eventually Wes and Jay leave. 
+ 
+ 
+ 
+Edited version.
+ 
+King:
+Scions of the bloodline of /vr/, hero of legend!
+Long have I awaited thy coming! 
+In days of yore, thy revered ancestor did receive of the Almighty m00t the Hammer of Song. 
+By its power was our world cleansed of the cancer which did beset it.
+Yet, alas, some few years past, there did arise a new threat--the Unending Evil. 
+With his awakening, he did steal away the Hammer of Song from us, plunging the land into darkness once more. 
+Should this state of affairs allowed to continue, the cancer will surely take unrelenting hold, and our realm perish. 
+The Prophecy foretold of a Brother and Sister, bearing the blood of /vr/, who together alone could banish this evil. 
+So I say to thee, of the bloodline of heroes, vanquish this Ancient Evil, and reclaim the Hammer of Song!"
+ 
+ 
+ 
+ 
+I called Todd the Unending Evil because of the unending Skyrim re-releases.
+The Hammer of Song is just a placeholder. My thoughts were Song => Music => Bands => The B& Hammer. The B& Hammer has the ability to alter reality, but can only be used effectively by one who understands it, that being m00t. Someone who doesn't understand the Hammer can do simple things, but they don't have the power m00t possessed. The idea here was that in the absence of m00t, cancer/darkness has spread, and only The B& Hammer, which has been lost to Todd, can undo this. Todd wishes to unlock the power of the B& Hammer in order to gain to change reality into a port of Skyrim?
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________________________________________________________________________________
+currently re organizing the misc ideas section.

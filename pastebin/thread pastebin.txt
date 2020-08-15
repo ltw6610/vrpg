@@ -1,0 +1,45 @@
+/vrpg/ makes a JRPG Parody (Dragon Quest 1)
+---
+ 
+PLOT
+ 
+An ancient evil awakens. A prophecy says only an older brother and his imouto can defeat him, and so our protagonists, Wes and Jay, set off to defeat the evil. Joined by boardtans, Our heroes travel through the world, gathering power and friends to defeat the ancient evil. The evil is confronted and is revealed to be Todd Howard, who wishes to turn all of reality in a port of Skyrim. Protags defeats him, and the world is saved.
+ 
+*Keep in mind that we can be less on the nose about  this later, but for now we're going with this
+ 
+---
+ 
+The general idea is to create JRPG parody of an established game, in this case Dragon Quest 1. We can play it straight but we can also diverge from the story or any established structure.
+ 
+WRITING/TONE CONSIDERATIONS
+? Gathering Tans will be a major part of the game as you can recruit them into your party. each has a unique personality, which can be found on https://1d4chan.org/wiki/Board-tans
+? Unlike DQ1, Our Heroes have a party that has a large number of options
+? The game will be silly, but have serious moments that cover loneliness, depression, lack of motivation and other topics.
+---
+ 
+PROGRAMMING/TECHNICAL CONSIDERATIONS
+? Turn-Based Battle System is the default, but how can we expand on it?
+? Enemies, Skills, Classes, database stuff - anon submitted ideas? or simply use existing Dragon Quest counterparts?
+? 16:9? 4:3 cancer? 1920x1080?
+ 
+ 
+----
+ 
+ART CONSIDERATIONS
+?We want to use pixel art in game for sprites, but any art you contribute can still be used, even if we use it only for inspiration.
+? Artists Input Required
+? tilesets for maps. Need to make templates.
+ 
+---
+ 
+MUSIC CONSIDERATIONS
+? Composers Input Required
+ 
+BOARD TAN RESOURCES
+? /vrpg/ lore comics: https://pastebin.com/iitXiGCR
+? Board-Tan's wiki: https://1d4chan.org/wiki/Board-tans
+? /vrpg/ Art: https://vrpgbooru.booru.org/
+ 
+Additional resources:
+? Introduction to Github:[In works]
+ 

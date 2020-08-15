@@ -1,0 +1,32 @@
+Route Paths: https://vrpgbooru.booru.org/index.php?page=post&s=view&id=429
+ 
+1. "I love you." (Speech 5/100)
+"I love you" [failure]
+https://vrpgbooru.booru.org/index.php?page=post&s=view&id=430
+"I love you" [success]
+	https://vrpgbooru.booru.org/index.php?page=post&s=view&id=438
+	https://vrpgbooru.booru.org/index.php?page=post&s=view&id=439
+ 
+2. [Sarcastic] "I care for you like how a drunken father beats his children"
+https://vrpgbooru.booru.org/index.php?page=post&s=view&id=403
+ 
+3. "I love you like a sibling"
+https://vrpgbooru.booru.org/index.php?page=post&s=view&id=296
+ 
+4. "Unironically kill yourself"
+https://vrpgbooru.booru.org/index.php?page=post&s=view&id=461
+ 
+5. [Grand Architect] "Lets go for some food..."
+https://vrpgbooru.booru.org/index.php?page=post&s=view&id=405
+ 
+6. [Mind Shield] "Thou shan't take my purity, demoness."
+https://vrpgbooru.booru.org/index.php?page=post&s=view&id=435
+ 
+7. [Sneering Imperialist] "This world belongs to the west!" 
+https://vrpgbooru.booru.org/index.php?page=post&s=view&id=436
+ 
+8. [Critical Strike] <Stab her right in the kokoro.>
+https://vrpgbooru.booru.org/index.php?page=post&s=view&id=404
+ 
+9. Let's talk about something else
+https://vrpgbooru.booru.org/index.php?page=post&s=view&id=437
