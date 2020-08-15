@@ -6,9 +6,7 @@ An ancient evil awakens. A prophecy says only an older brother and his imouto ca
 Don't forget:
 ? The game will be silly, but have serious moments that cover loneliness, depression, lack of motivation and other topics.
  (This not difficult to implement in the least)
- 
- 
- 
+? I hate furries with a passion beyond all human comprehension.
  
 REMEMBER!
 ***NOTHING IS SET IN STONE***
@@ -30,7 +28,7 @@ It's meant to take inspiration from it, other DQ games, and other RPGS.
  
  
 The plot follows the 12 stages of the Hero's journey.
-This is a very popular method of storytelling, and can be observed in a lot of media, From the Wizard of Oz to DQ11.
+This is a very popular method of storytelling, and can be observed in a lot of media, most notably for us, The Dragon's Quest games.
  
 If you're unfamiliar, the 12 stages are:
 1 The Ordinary World (The Locker Room)
@@ -47,8 +45,6 @@ If you're unfamiliar, the 12 stages are:
 12 Return with the Trophy
  
  
-Need to map out their Journey before I write it.
- 
  
  
  
@@ -57,26 +53,28 @@ Need to map out their Journey before I write it.
 _______________________________________________________________________________________________________________________________________
 1 The Ordinary World (The Locker Room)
 _______________________________________________________________________________________________________________________________________
-The home of Wes and Jay.
-Wes and Jay live with Moe and Hoe. 
-Hoe is not currently present. 
-Moe is engrossed in an MMO. Of course. 
-Jay is using Wes' PC without his knowledge. 
-Wes is practicing clipping through walls with a wooden plate. 
+-The home of Wes and Jay, they live with Moe and Hoe. 
+-Jay is using Wes' PC without his knowledge. 
+-Hoe is not currently present. 
+	/Setting
  
+-Moe is engrossed in an MMO.
+	/In character behavior. Establishes she's not focused on what's currently going on around her.
  
+-Wes is practicing clipping through walls with a wooden plate. 
+	/In character behavior. Establishes he's not paying attention to Jay at this time.
  
  
 _______________________________________________________________________________________________________________________________________
 2 Call To Adventure (Hey Buddy I think you got the wrong door)
 _______________________________________________________________________________________________________________________________________
-Jay break's Wes' computer while attempting to buy enchanted body pillows on tor using Dogecoin.
+-Jay break's Wes' computer while attempting to buy enchanted body pillows on tor using Dogecoin.
+	/It's a silly call to adventure. Wes and Jay are silly characters.
+ 
 They're forced to go in search of /g/ to repair Wes' PC. 
-Along the way Wes and Jay are told they are the only ones who can defeat the Ancient Evil. 
-They are sidetracked by this. 
-Maybe Jay mentions to Wes he shouldn't get off sidetracked on sidequests but he ignores her, or tells her "It's the Journey, not the destination".
-How is this information conveyed to them?
-Could just do the easy thing and have a messenger tells them the King wants to speak with them. That would be pretty straightforward.
+A messenger tells them the King wants to speak with them. 
+Wes and Jay are told by the king they are the only ones who can defeat the Ancient Evil. 
+Jay mentions to Wes he shouldn't get sidetracked on sidequests but he tells her "It's the Journey, not the destination".
  
 They arrive in the castle, the King tells them the prophecy. 
 Wes immediately asks what the reward is.
@@ -95,18 +93,19 @@ King is troubled. Jay is at a loss for words.
 Wes does multiple barter checks. This doesn't need to be programmed in to have the option of doing a barter check. Just have it as
 [Barter 50] etc etc etc, [Barter 75] etc etc etc,  [Barter 100] etc etc etc. 
 King offers Wes and Jay something substantial. Access to the entire Kingdom's Armoury.
-He also convinces Wes not to ignore this, because if the world ended, the little old lady down the road wouldn't be able to bake him cookies anymore. 
-Wes reluctantly accepts.
+King also gives them /adv/, the fairy in a jar (like Navi, get it?) that gives them useless advice.
+ 
+Wes accepts, but decides to ignore the quest regardless.
 Wes and Jay leave, they make their way back home to get their equipment before going on the quest.
  
  
-It's revealed later that king is actually a much older /qst/?
+Maybe it's revealed later that king is actually a much older /qst/?
 _______________________________________________________________________________________________________________________________________
 4 Meeting the Mentor
 _______________________________________________________________________________________________________________________________________
 -The town advises you and gives you items to prepare you for your journey outside, including [Shopkeeper] who runs the general store. [Shopkeeper] will likely act as the mentor here. Advises Wes and Jay. Tells them it's dangerous to be alone these days, stick together.
 	/ Gives some character to the town, introduce the importance of talking to secondary NPCs with items, tips, and a meme or two.
-	/ Foreshadowing. Moe is alone.
+	Foreshadowing. Moe is alone, not paying attention to what's outside, and they've just been told it's dangerous to be alone.
  
 -Todd (name should be changed to sustain mystery) is a local shopkeeper, maybe has a smith of some kind. A member of the community.
 	/ Seeing antagonist early facilitates him changing over time and creates context for future meetings.
@@ -114,13 +113,11 @@ ________________________________________________________________________________
 -Todd should be present when Wes and Jay arrive, but gone when they finish speaking with the King. Anyone who Wes and Jay ask about this will say he departed separately from the village to pursue the ancient evil. Generic comments about how he's got a good heart. 
 	/ Regardless of what he's said to people, he does not have an alibi for the destruction of Wes and Jay's home. 
  
--At some point, it's revealed Todd used to spend his free time as an artist. (Conversation with NPC/other member of party about him leaving the village.) Painter, smithy, etc. 
-	/ Foreshadowing, a chance for memes. 
  
 _______________________________________________________________________________________________________________________________________
 5 Crossing the Threshold (Ah, Fuck you Leatherman)
 _______________________________________________________________________________________________________________________________________
--Wes and Jay return to find their house has been destroyed in their absence, and someone running the other direction.
+-Wes and Jay return to find their house has been destroyed in their absence, and someone running in the other direction.
 	/Bit of a trope, protags leave their home and it's destroyed, but it's a good way of progressing the story, so I've used it.
  
 -All that is revealed is the silhouette of /v/. 
@@ -128,11 +125,11 @@ ________________________________________________________________________________
  
 -The home has collapsed, destroying most of their things, and killing Moe. 
 	/This makes things personal for Wes and Jay.
+ 	"No one kills my Moe"
  
 -Some of their more valuable items are also missing entirely. 
-	/Foreshadowing, for when Todd fights them kitted out in this gear. It's immediately obvious he was behind this, without 					 
+	/Foreshadowing, for when Todd fights them kitted out in this gear. It removes and doubt he was behind this, without 					 
   	explicitly stating it.
-"No one kills my Moe"
  
 They search the ruins of their home for anything useful that hasn't been destroyed, and Jay finds a Necromancy potion belonging to Moe.
 Jay pours it on Moe's body, and she comes back, but only as a skeleton! Origin story! 
@@ -163,9 +160,8 @@ ________________________________________________________________________________
 	/ Progression.
  
 -Back at the bridge, a group of large workers on the payroll of [Recurring Antagonist 1] have formed. [Recurring Antagonist 1] is not there. The workers are strong and hate working for [Recurring Antagonist 1]. The bridge for Todd will take days, but for the party an especially large lumberjack fells a large tree and secures it to cross the river. 
-	/ Enter new area of the continent. Additional party member can join here. Opportunity to introduce /diy/, should Board Tans be 		 
- 	involved. Side character works to build world- Always someone stronger than the protagonists, and in this scenario it's just 
-  	some lumberjack.
+	/ Enter new area of the continent. Additional party member can join here. Opportunity to introduce /diy/, Side characters work 
+ 	to build world- Always someone stronger than the protagonists, and in this scenario it's just some lumberjack/diy.
  
 -The Eastern Village is overtly confident in a new hero that has arisen and is on their way towards the ancient evil. To the citizens, the issue is already dealt with. A Bishops Guild is in this town, where the party might discover their financial purpose, a guild of connections that benefit every trader. 
 	/ Interesting development, subverts plot. Introduces a worldly faction. Builds world- this isn't just a bunch of random people 
@@ -182,7 +178,7 @@ ________________________________________________________________________________
 -After the boss, the party looks beyond to see something in the distance symbolizing the ancient evil (fountain of odd light, etc.). The land, way out there, is slowly but surely changing in pallet. The color is growing from the source.
 	/ Keep in touch with goal. Good moment for character's thoughts on the hero and ancient evil.
  
--A crack of thunder over ancient evil, a fire in the next city over.
+-With the view from the mountain, the heroes spot a fire in the next city over. Thunder? 
 	/ New goal. If this is made to be the city they fought the boss in front of, it makes the player actually feel something 		 	 
  	because they saw the location before it was torched. Could make Rat Hitler the sole survivor of this town.
  
@@ -195,8 +191,30 @@ ________________________________________________________________________________
 -Todd had to abandon the majority of his goods. He decides to go to the Eastern Village to interact with the Bishop Guild.
 	/ Stock up before moving towards new goal.
  
--The party head towards the Village on Fire.
+-The party head towards the burning village
 	/ Third leveling section.
+ 
+ 
+-The party arrives inside the burning village. In the center, surrounded by flames and ash, is a powerful minion of the ancient evil. 
+he's got fire based abilities. Dialogue with Heroes follows. It'll be sick edgy stuff about fire and purification you'll love it I promise. 
+	/Second boss fight. Demonstrates the ancient evil is actively harming the world. It's not just vague talk, there are people 	 
+ 	being brutally killed by the envoys of this entity.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 _______________________________________________________________________________________________________________________________________
 7 Approach the Innermost Cave
@@ -206,8 +224,23 @@ Leading up to facing Todd the first time.
 The innermost cave is a bit like World 8 in super mario bros, you dig?
 It's the build up to fighting the bbeg. 
  
+I figured a good way to implement a serious tone is to have the antagonists represent some of the topics wished to address.
+ 
+ -On the way to Todd, they encounter [Recurring Antagonist 1]. He has a powerful minion at his side, but is powerful on his own.
+	/I'm thinking of a way to make this guy represent loneliness, and lacking people who understand the way one thinks. 	 	 
+ 	Although he's surrounded by minions who will do his every request, none of them particularily like him, and he has no one with 
+  	whom he can talk to. Sounds a bit simple now but I'm working on it.
  
  
+-On the way to Todd, they encounter [Recurring Antagonist 2]. He's alone. [Recurring Antagonist 2] has been established to be a very weak, frail individual, but does something to themselves and suddenly becomes incredibly powerful. Perhaps he drinks a cursed potion. Makes a contract with a demon. Something of this nature.
+	/I want to make him represent failure, and people's challenges in accepting themselves for what they are. I'm not making this 		 	 
+ 	some liberal bullshit, I'm trying to make it about not being able to accept one's shortcomings, and how this can leave someone 
+  	crippled and unable to grow.
+ 
+-Upon arriving at Todd, they encounter [Recurring Antagonist 3] At Todd's side. Todd's confident that with [Recurring Antagonist 3] at his side, he can defeat you. Upon getting hit the first time, [Recurring Antagonist 3] will flee from the fight, abandoning Todd. Need to tie up that loose end though.
+	/This gentleman will represent suicide. Suicide's like ragequitting when you're losing. You don't face the loss, but your team 		 
+ 	mates do. By having [Recurring Antagonist 3] abandon Todd, I'm trying to convey that everyone has someone who depends on them, 
+  	no matter who they are. Todd's victory was certain with his ally, but the loss of his ally has left him troubled and uncertain.
 _______________________________________________________________________________________________________________________________________
 8 The Supreme Ordeal (I'll show you who's the boss of this Gym)
 _______________________________________________________________________________________________________________________________________
