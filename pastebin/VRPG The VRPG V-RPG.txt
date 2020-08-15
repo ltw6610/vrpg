@@ -7,6 +7,7 @@ Don't forget:
 ? The game will be silly, but have serious moments that cover loneliness, depression, lack of motivation and other topics.
  (This not difficult to implement in the least)
 ? I hate furries with a passion beyond all human comprehension.
+? Chekov's gun
  
 REMEMBER!
 ***NOTHING IS SET IN STONE***
@@ -168,19 +169,19 @@ ________________________________________________________________________________
   	in random places, this is an interconnected Kingdom. Good opportunity for character personality to come through, as of now 
   	they've encountered two people who are stronger + an opportunity to be lazy and leave the ancient evil to the hero.
  
--The party asks around to see if they can help at all. A leader of the village, [Recurring Antagonist 2], well tied into the Bishops Guild, scoffs and tells them there's been some people going missing on the mountain, they should make themselves useful and investigate. Make it abundantly clear that [Recurring Antagonist 2] doesn't care if they die. 
+-The party asks around to see if they can help at all. A very frail looking leader of the village, [Recurring Antagonist 2 / FLATLUS], well tied into the Bishops Guild, scoffs and tells them there's been some people going missing on the mountain, they should make themselves useful and investigate. Make it abundantly clear that [Recurring Antagonist 2] doesn't care if they die. 
 	/ Chance for character personality. Second leveling section. New environment to match new town. Chance to introduce a new party 
-  	member at the base of the mountain who joins the climb.
+  	member at the base of the mountain who joins the climb. 
  
 -Before reaching the peak, boss climbs up from the side of the mountain shrouded in cloud before leaping at the party.
-	/ Second boss. Maybe builds mystery, a bit of a stretch in this context.
+	/ Second boss. Maybe builds mystery, a bit of a stretch in this context. 
  
 -After the boss, the party looks beyond to see something in the distance symbolizing the ancient evil (fountain of odd light, etc.). The land, way out there, is slowly but surely changing in pallet. The color is growing from the source.
 	/ Keep in touch with goal. Good moment for character's thoughts on the hero and ancient evil.
  
 -With the view from the mountain, the heroes spot a fire in the next city over. Thunder? 
-	/ New goal. If this is made to be the city they fought the boss in front of, it makes the player actually feel something 		 	 
- 	because they saw the location before it was torched. Could make Rat Hitler the sole survivor of this town.
+	/ New goal. Chekov's gun. The city they just visited is now on fire. Rat Hitler was the sole survivor, because he was able to 	 	 
+  	escape to the sewers. 
  
 -Descending down below, Todd can be seen being chased by humanoid figures. The gang intercept. 
 	/ New type of enemy. Keep in touch with Todd. Foreshadowing for later confrontation.
@@ -191,7 +192,7 @@ ________________________________________________________________________________
 -Todd had to abandon the majority of his goods. He decides to go to the Eastern Village to interact with the Bishop Guild.
 	/ Stock up before moving towards new goal.
  
--The party head towards the burning village
+-The party head towards the burning village.
 	/ Third leveling section.
  
  
@@ -199,6 +200,8 @@ ________________________________________________________________________________
 he's got fire based abilities. Dialogue with Heroes follows. It'll be sick edgy stuff about fire and purification you'll love it I promise. 
 	/Second boss fight. Demonstrates the ancient evil is actively harming the world. It's not just vague talk, there are people 	 
  	being brutally killed by the envoys of this entity.
+ 
+-Following totally sick dialogue
  
  
  
@@ -233,9 +236,9 @@ I figured a good way to implement a serious tone is to have the antagonists repr
  
  
 -On the way to Todd, they encounter [Recurring Antagonist 2]. He's alone. [Recurring Antagonist 2] has been established to be a very weak, frail individual, but does something to themselves and suddenly becomes incredibly powerful. Perhaps he drinks a cursed potion. Makes a contract with a demon. Something of this nature.
-	/I want to make him represent failure, and people's challenges in accepting themselves for what they are. I'm not making this 		 	 
- 	some liberal bullshit, I'm trying to make it about not being able to accept one's shortcomings, and how this can leave someone 
-  	crippled and unable to grow.
+	/I want to make him represent failure, Self Hatred, and people's challenges in accepting what they cannot change.  His 
+  	weakness disgusted him, and so he horrendously damaged himself in order to achieve strength because he was not able to accept 
+  	the hand that had been dealt to him. If it sounds like shit, I'm still working on it. 
  
 -Upon arriving at Todd, they encounter [Recurring Antagonist 3] At Todd's side. Todd's confident that with [Recurring Antagonist 3] at his side, he can defeat you. Upon getting hit the first time, [Recurring Antagonist 3] will flee from the fight, abandoning Todd. Need to tie up that loose end though.
 	/This gentleman will represent suicide. Suicide's like ragequitting when you're losing. You don't face the loss, but your team 		 
@@ -290,10 +293,11 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________
 Todd absorbs m00t
 Todd gains absolute power
-Todd ports too many ero mods into reality, creating the coomlands???
+At some point during Todd's revival, the Hammer of Song taken back by /v/ or Todd or whoever is allied with them.
  
+[Todd freezes the party in time. He's afraid they'll just immediately kill him again] 
+During this period, Todd ports too many ero mods into reality, creating the coomlands???
  
-At some point during this interaction, the Hammer of Song taken back by /v/ or Todd or whoever is allied with them.
  
 Heroes need to kill the Coomer to gain access to the coomlands
 Literal hell
@@ -396,3 +400,6 @@ The Hammer of Song is just a placeholder. My thoughts were Song => Music => Band
  
 _______________________________________________________________________________________________________________________________________
 currently re organizing the misc ideas section.
+ 
+Alternate ending where Fatlus kills Wes and takes his armour to flirt with Jay.
+Jay actually ends up happier in this ending than the true ending.

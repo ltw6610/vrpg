@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"World map (1)","order":1,"parentId":0,"scrollX":1648,"scrollY":1554},
+{"id":1,"expanded":true,"name":"World map (1)","order":1,"parentId":0,"scrollX":1622,"scrollY":1758},
 {"id":2,"expanded":false,"name":"Castle (2)","order":2,"parentId":1,"scrollX":1638,"scrollY":926},
 {"id":3,"expanded":false,"name":"MAP003","order":3,"parentId":2,"scrollX":1638,"scrollY":926},
 {"id":4,"expanded":false,"name":"MAP004","order":4,"parentId":2,"scrollX":1638,"scrollY":926},
