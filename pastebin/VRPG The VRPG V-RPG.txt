@@ -157,19 +157,22 @@ ________________________________________________________________________________
 -Arriving at the town in the NE, a [Recurring Antagonist 1] is caught in the grip of the first boss, [Unspecified Monster 1]. [Unspecified Monster 1] spots Party, changes focus. [Unspecified Monster 1] Dialogue here. Boss fight begins.
 	/ First boss.
  
--Upon victory, [Recurring Antagonist 1] thanks you for saving him. [Recurring Antagonist 1] calls in a favour and tells the Party that they'll be able to cross the bridge now.
+-Upon victory, [Recurring Antagonist 1] thanks you for saving him. [Recurring Antagonist 1] calls in a favour and tells the Party that they'll be able to cross the bridge now. 
 	/ Progression.
+ 
+-Should the heroes enter the village, it's full of happy Scavenfolk, who've been gradually moving to the surface. Pre Timeskip Rat Hitler is here, though he's just a happy painter. They can restock here.
+  	/Worldbuilding. 
  
 -Back at the bridge, a group of large workers on the payroll of [Recurring Antagonist 1] have formed. [Recurring Antagonist 1] is not there. The workers are strong and hate working for [Recurring Antagonist 1]. The bridge for Todd will take days, but for the party an especially large lumberjack fells a large tree and secures it to cross the river. 
 	/ Enter new area of the continent. Additional party member can join here. Opportunity to introduce /diy/, Side characters work 
  	to build world- Always someone stronger than the protagonists, and in this scenario it's just some lumberjack/diy.
  
--The Eastern Village is overtly confident in a new hero that has arisen and is on their way towards the ancient evil. To the citizens, the issue is already dealt with. A Bishops Guild is in this town, where the party might discover their financial purpose, a guild of connections that benefit every trader. 
+-The Eastern Village is not in the slightest concerned about the ancient evil. To the citizens, the issue is nonexistant. A Bishops Guild is in this town, where the party might discover their financial purpose, a guild of connections that benefit every trader. 
 	/ Interesting development, subverts plot. Introduces a worldly faction. Builds world- this isn't just a bunch of random people 
   	in random places, this is an interconnected Kingdom. Good opportunity for character personality to come through, as of now 
   	they've encountered two people who are stronger + an opportunity to be lazy and leave the ancient evil to the hero.
  
--The party asks around to see if they can help at all. A very frail looking leader of the village, [Recurring Antagonist 2 / FLATLUS], well tied into the Bishops Guild, scoffs and tells them there's been some people going missing on the mountain, they should make themselves useful and investigate. Make it abundantly clear that [Recurring Antagonist 2] doesn't care if they die. 
+-The party asks around to see if they can help at all. A very frail looking leader of the village, [Recurring Antagonist 2 / FLATLUS], well tied into the Bishop's Guild, scoffs and tells them there's been some people going missing on the mountain, they should make themselves useful and investigate. Make it abundantly clear that [Recurring Antagonist 2] doesn't care if they die. 
 	/ Chance for character personality. Second leveling section. New environment to match new town. Chance to introduce a new party 
   	member at the base of the mountain who joins the climb. 
  
@@ -197,13 +200,48 @@ ________________________________________________________________________________
  
  
 -The party arrives inside the burning village. In the center, surrounded by flames and ash, is a powerful minion of the ancient evil. 
-he's got fire based abilities. Dialogue with Heroes follows. It'll be sick edgy stuff about fire and purification you'll love it I promise. 
+he's got fire based abilities. Dialogue with Heroes follows. It'll be sick edgy stuff about fire and purification, killing rats, the symbol of pestilence, you'll love it I promise. 
 	/Second boss fight. Demonstrates the ancient evil is actively harming the world. It's not just vague talk, there are people 	 
  	being brutally killed by the envoys of this entity.
  
--Following totally sick dialogue
+-Following totally sick bants, Wes and Jay defeat the minion.
+	/Progression. They're fighting and defeating more powerful enemies. 
  
+-Upon defeating the minion, Pre-timeskip Rat Hitler appears. He's burned and visibly distraught, but he thanks Wes and Jay for killing the minion, and tells them the direction from whence he came. He tells the heroes he's never going to the surface again, but if they ever need help, he will never forget what they have done for him.
+	/Wes and Jay have a positive pre-timeskip relationship with Rat Hitler. The fact that they saved his life makes it logical for 
+  	him to sacrifice himself for them later.
  
+-The Heroes venture in the direction given to them by Rat Hitler. Along the way, they encounter Todd, and his caravan once more. 
+Todd warns the heroes about danger ahead. Urges them not to go forward. 
+   	/Fourth leveling section. It's very clear that Todd doesn't want the heroes to go ahead. He says it's for their safety, but in 
+     	reality, there's a dungeon up ahead he doesn't want to heroes to enter.
+ 
+-The heroes continue on. They arrive at a ruins, with an entrance that leads underground. [Recurring Antagonist 1] is there, with a small group of men rigging explosives. [Recurring Antagonist 1] Tells Wes and Jay that this ruin is packed to the brim of Minions serving the ancient evil. They've stolen a great deal of gold from the Bishop's guild, and even kidnapped people, but because of the danger inside, the King's asked them to seal the entrance with explosives. 
+     	/Appearance of an antagonist again. Demonstrates how powerful the minions of evil really are. Even though they possess a great 
+      	deal of the Kingdom's treasure, it's impossible to kill them.
+ 
+-[Recurring Antagonist 1] tells Wes and Jay that if they're able to clear out the creatures inside, and save the innocents, the gold is theirs. Wes and Jay agree. They venture inside of the dungeon.
+       	/Reason to risk their lives, they're both noble and rewarded for fighting these monsters.
+ 
+-First Dungeon.
+       /What's an rpg without a dungeon?
+ 
+-Upon reaching the deepest layer, they find the gold, but do not see the missing people. They do encounter a locked door. Wes can clip through it using his wooden plate. If he does, he will encounter a room of bloodstained walls, with bones strewn about, bits of flesh on the floor. The monsters had eaten them. Wes is shaken. He clips back to the other room. Jay asks Wes if he saw the innocents. Wes simply replies that they're gone.
+        /Grimdark.
+ 
+-The Heroes return to the entrance. One of the men with [Recurring Antagonist 1] tells them to stop where they are, and points a weapon at them. [Recurring Antagonist 1] asks them if they've killed all the creatures inside the cave. They have. He asks what happened to the innocents. Wes says that they're gone. [Recurring Antagonist 1] tells his man to blow the entrance. Explosion knocks Wes and Jay back into the cave, and seals them inside. Vaguely from the outside, they hear him laugh, and tell them not to worry. He'll be back in a few months to dig out the gold.
+          /Having used them, [Recurring Antagonist 1] reveals his true nature and tries to kill them. Dick move, especially considering 
+            they saved his life, but this says a lot about his character. He uses people, and discards them when they're no longer 
+           valuable to him.
+ 
+-Jay is scared, Wes remains cool. Starts inspecting walls, hitting things with his swords, trying to figure a way out. This goes on for a while. They decide to rest, and conserve their energy. After some time, as they begin drifting off to sleep, they hear a scratching noise. It begins to get louder. 
+           /buildup.
+ 
+-An unnamed Scaven breaks through the dungeon wall. He tells Wes and Jay he heard them, and recognized their voices as those who kileld the Scavenslayer. He leads them through his tunnel, and they emerge into the Sewer. 
+             /It's not just Rat Hitler who remembers them, Wes and Jay have a positive reputation with many Scavenfolk for what they 
+             did.
+ 
+-Unnamed Scaven bids them adieu, but he warns them that the Scaven have felt a terrible omen. They warn Wes and Jay that evil grows stronger, and the Scaven can only do so much to help them.
  
  
  
