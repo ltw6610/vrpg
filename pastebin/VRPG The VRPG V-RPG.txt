@@ -108,12 +108,6 @@ ________________________________________________________________________________
 	/ Gives some character to the town, introduce the importance of talking to secondary NPCs with items, tips, and a meme or two.
 	Foreshadowing. Moe is alone, not paying attention to what's outside, and they've just been told it's dangerous to be alone.
  
--Todd (name should be changed to sustain mystery) is a local shopkeeper, maybe has a smith of some kind. A member of the community.
-	/ Seeing antagonist early facilitates him changing over time and creates context for future meetings.
- 
--Todd should be present when Wes and Jay arrive, but gone when they finish speaking with the King. Anyone who Wes and Jay ask about this will say he departed separately from the village to pursue the ancient evil. Generic comments about how he's got a good heart. 
-	/ Regardless of what he's said to people, he does not have an alibi for the destruction of Wes and Jay's home. 
- 
  
 _______________________________________________________________________________________________________________________________________
 5 Crossing the Threshold (Ah, Fuck you Leatherman)
@@ -138,7 +132,7 @@ Jay pours it on Moe's body, and she comes back, but only as a skeleton! Origin s
 Note from anon: The potion should be like a really on the nose chekov's gun thing. Like moe says "I love you both. And my necromancy potion of unlife, I love it too" or something
  
 -*Achievement unlocked* [Ain't that a kick in the head]
-	/References are fun. Recommend any classic achievements you want to see in the game to me, I'll see if I can work them in.
+	/Beferences :DDD Recommend any classic achievements you want to see in the game to me, I'll see if I can work them in.
  
  
  
@@ -151,7 +145,7 @@ ________________________________________________________________________________
 -On the way East, the duo find the bridge destroyed. With the ancient evil awakened, a faction seemingly prepared has emerged to burn the bridge. 
 	/ First leveling section. Builds mystery.
  
--Todd has made it to the bridge first with a wagon of his goods. /tg/ is there, chatting with [Unspecified Individual] about military tactics. It is mentioned to the party that they may be able to find help in the east to cross the bridge.
+-A merchant has made it to the bridge with a wagon of his goods. /tg/ is there, chatting with [Unspecified Individual] about military tactics. It is mentioned to the party that they may be able to find help in the east to cross the bridge.
 	/ Spot to buy items.
  
 -Arriving at the town in the NE, a [Recurring Antagonist 1] is caught in the grip of the first boss, [Unspecified Monster 1]. [Unspecified Monster 1] spots Party, changes focus. [Unspecified Monster 1] Dialogue here. Boss fight begins.
@@ -161,18 +155,15 @@ ________________________________________________________________________________
 	/ Progression.
  
 -Should the heroes enter the village, it's full of happy Scavenfolk, who've been gradually moving to the surface. Pre Timeskip Rat Hitler is here, though he's just a happy painter. They can restock here.
-  	/Worldbuilding. 
+  	/Worldbuilding. Chance to buy items/rest.
  
 -Back at the bridge, a group of large workers on the payroll of [Recurring Antagonist 1] have formed. [Recurring Antagonist 1] is not there. The workers are strong and hate working for [Recurring Antagonist 1]. The bridge for Todd will take days, but for the party an especially large lumberjack fells a large tree and secures it to cross the river. 
 	/ Enter new area of the continent. Additional party member can join here. Opportunity to introduce /diy/, Side characters work 
  	to build world- Always someone stronger than the protagonists, and in this scenario it's just some lumberjack/diy.
  
--The Eastern Village is not in the slightest concerned about the ancient evil. To the citizens, the issue is nonexistant. A Bishops Guild is in this town, where the party might discover their financial purpose, a guild of connections that benefit every trader. 
-	/ Interesting development, subverts plot. Introduces a worldly faction. Builds world- this isn't just a bunch of random people 
-  	in random places, this is an interconnected Kingdom. Good opportunity for character personality to come through, as of now 
-  	they've encountered two people who are stronger + an opportunity to be lazy and leave the ancient evil to the hero.
+-The Eastern Village is not in the slightest concerned about the ancient evil. 
  
--The party asks around to see if they can help at all. A very frail looking leader of the village, [Recurring Antagonist 2 / FLATLUS], well tied into the Bishop's Guild, scoffs and tells them there's been some people going missing on the mountain, they should make themselves useful and investigate. Make it abundantly clear that [Recurring Antagonist 2] doesn't care if they die. 
+-The party asks around to see if they can help at all. A very frail looking leader of the village, [Recurring Antagonist 2 / FLATLUS], scoffs and tells them there's been some people going missing on the mountain, they should make themselves useful and investigate. Make it abundantly clear that [Recurring Antagonist 2] doesn't care if they die. 
 	/ Chance for character personality. Second leveling section. New environment to match new town. Chance to introduce a new party 
   	member at the base of the mountain who joins the climb. 
  
@@ -186,70 +177,84 @@ ________________________________________________________________________________
 	/ New goal. Chekov's gun. The city they just visited is now on fire. Rat Hitler was the sole survivor, because he was able to 	 	 
   	escape to the sewers. 
  
--Descending down below, Todd can be seen being chased by humanoid figures. The gang intercept. 
+-Descending down below, [Recurring Antagonist 2] can be seen being cornered by humanoid figures. The gang intercept. 
 	/ New type of enemy. Keep in touch with Todd. Foreshadowing for later confrontation.
  
--Behind Todd's escape lie several other humanoid figures, slain by Todd unbeknownst to the party.
-	/ Favorite anime trope. Todd is powerful, but the characters won't know that until it's too late.
+-Behind [Recurring Antagonist 2] lie several other humanoid figures, slain by [Recurring Antagonist 2] unbeknownst to the party.
+	/ Favorite anime trope. [Recurring Antagonist 2] is powerful, but the characters won't know that until it's too late.
  
--Todd had to abandon the majority of his goods. He decides to go to the Eastern Village to interact with the Bishop Guild.
+-[Recurring Antagonist 2] explains he was attempting to take his things to a safer village, but he and his guards were ambushed, and he was forced to abandon the majority of his goods. He decides to return to the Eastern Village to regroup with any remaining guards he has, and inform the town of what's happened. He offers to trade with what little he has. 
 	/ Stock up before moving towards new goal.
  
 -The party head towards the burning village.
 	/ Third leveling section.
  
- 
 -The party arrives inside the burning village. In the center, surrounded by flames and ash, is a powerful minion of the ancient evil. 
 he's got fire based abilities. Dialogue with Heroes follows. It'll be sick edgy stuff about fire and purification, killing rats, the symbol of pestilence, you'll love it I promise. 
-	/Second boss fight. Demonstrates the ancient evil is actively harming the world. It's not just vague talk, there are people 	 
+	/Third boss fight. Demonstrates the ancient evil is actively harming the world. It's not just vague talk, there are people 	 
  	being brutally killed by the envoys of this entity.
  
 -Following totally sick bants, Wes and Jay defeat the minion.
 	/Progression. They're fighting and defeating more powerful enemies. 
  
--Upon defeating the minion, Pre-timeskip Rat Hitler appears. He's burned and visibly distraught, but he thanks Wes and Jay for killing the minion, and tells them the direction from whence he came. He tells the heroes he's never going to the surface again, but if they ever need help, he will never forget what they have done for him.
+-Upon defeating the minion, Pre-timeskip Rat Hitler appears. He's burned and visibly distraught, but he thanks Wes and Jay for killing the minion, and tells them the direction from whence the minion came. He tells the heroes he's never going to the surface again, but if they ever need help, he will never forget what they have done for him.
 	/Wes and Jay have a positive pre-timeskip relationship with Rat Hitler. The fact that they saved his life makes it logical for 
   	him to sacrifice himself for them later.
  
--The Heroes venture in the direction given to them by Rat Hitler. Along the way, they encounter Todd, and his caravan once more. 
-Todd warns the heroes about danger ahead. Urges them not to go forward. 
-   	/Fourth leveling section. It's very clear that Todd doesn't want the heroes to go ahead. He says it's for their safety, but in 
-     	reality, there's a dungeon up ahead he doesn't want to heroes to enter.
+-The Heroes venture in the direction given to them by Rat Hitler. Along the way, they encounter [Recurring Antagonist 2], and his caravan once more. [Recurring Antagonist 2] warns the heroes about danger ahead. Urges them not to go forward. 
+   	/Fourth leveling section. Chance to stock up. It's very clear that [Recurring Antagonist 2] doesn't want the heroes to go 
+     	ahead. He says it's for their safety, but in reality, there's a dungeon up ahead he doesn't want to heroes to enter. It's 
+     	already been made clear he doesn't care if they live or die. He's just trying to keep them away from the dungeon.
  
--The heroes continue on. They arrive at a ruins, with an entrance that leads underground. [Recurring Antagonist 1] is there, with a small group of men rigging explosives. [Recurring Antagonist 1] Tells Wes and Jay that this ruin is packed to the brim of Minions serving the ancient evil. They've stolen a great deal of gold from the Bishop's guild, and even kidnapped people, but because of the danger inside, the King's asked them to seal the entrance with explosives. 
-     	/Appearance of an antagonist again. Demonstrates how powerful the minions of evil really are. Even though they possess a great 
-      	deal of the Kingdom's treasure, it's impossible to kill them.
+-The heroes continue on. They arrive at a ruins, with an entrance that leads underground. [Recurring Antagonist 1] is there, with a small group of men rigging explosives. [Recurring Antagonist 1] Tells Wes and Jay that this ruin is packed to the brim with Minions serving the ancient evil. They've stolen a great deal of gold and valuable equipment from the Kingdom, and even kidnapped people, but because of the danger inside, the King's asked them to seal the entrance with explosives. 
+     	/Appearance of a recurring antagonist. Demonstrates how powerful the minions of evil really are. Even though they possess a 
+       	great deal of the Kingdom's treasure, it's too difficult to kill them.
  
--[Recurring Antagonist 1] tells Wes and Jay that if they're able to clear out the creatures inside, and save the innocents, the gold is theirs. Wes and Jay agree. They venture inside of the dungeon.
+-[Recurring Antagonist 1] tells Wes and Jay that if they're able to clear out the creatures inside, and save the innocents, the gold and gear is theirs. Wes and Jay agree. They venture inside of the dungeon.
        	/Reason to risk their lives, they're both noble and rewarded for fighting these monsters.
  
 -First Dungeon.
-       /What's an rpg without a dungeon?
+       /What's an rpg without a dungeon? Fifth leveling section, fourth boss fight.
  
 -Upon reaching the deepest layer, they find the gold, but do not see the missing people. They do encounter a locked door. Wes can clip through it using his wooden plate. If he does, he will encounter a room of bloodstained walls, with bones strewn about, bits of flesh on the floor. The monsters had eaten them. Wes is shaken. He clips back to the other room. Jay asks Wes if he saw the innocents. Wes simply replies that they're gone.
-        /Grimdark.
+        /E D G Y !
  
--The Heroes return to the entrance. One of the men with [Recurring Antagonist 1] tells them to stop where they are, and points a weapon at them. [Recurring Antagonist 1] asks them if they've killed all the creatures inside the cave. They have. He asks what happened to the innocents. Wes says that they're gone. [Recurring Antagonist 1] tells his man to blow the entrance. Explosion knocks Wes and Jay back into the cave, and seals them inside. Vaguely from the outside, they hear him laugh, and tell them not to worry. He'll be back in a few months to dig out the gold.
+-The Heroes return to the entrance. One of the men with [Recurring Antagonist 1] tells them to stop where they are, and points a weapon at them. [Recurring Antagonist 1] asks them if they've killed all the creatures inside the cave. They have. He asks what happened to the innocents. Wes says that they're gone. [Recurring Antagonist 1] tells his man to blow the entrance. Explosion knocks Wes and Jay back into the cave, and seals them inside. From the outside, they vaguely hear him laugh, and tells them not to worry, he'll be back in a few months to dig out the gold.
           /Having used them, [Recurring Antagonist 1] reveals his true nature and tries to kill them. Dick move, especially considering 
-            they saved his life, but this says a lot about his character. He uses people, and discards them when they're no longer 
+           they saved his life, but this says a lot about his character. He uses people, and discards them when they're no longer 
            valuable to him.
  
 -Jay is scared, Wes remains cool. Starts inspecting walls, hitting things with his swords, trying to figure a way out. This goes on for a while. They decide to rest, and conserve their energy. After some time, as they begin drifting off to sleep, they hear a scratching noise. It begins to get louder. 
            /buildup.
  
--An unnamed Scaven breaks through the dungeon wall. He tells Wes and Jay he heard them, and recognized their voices as those who kileld the Scavenslayer. He leads them through his tunnel, and they emerge into the Sewer. 
+-An unnamed Scaven breaks through the dungeon wall. He tells Wes and Jay he heard them, and recognized their voices as those who killed the Exterminator (That's a placeholder name for the second boss, who killed Scaven in the village). He leads them through his tunnel, and they emerge into the Sewer. He gives them a few things to prepare them for the road ahead. Maybe a unique Scaven healing item. Or this could be the time to introduce the Rat Bone sword. 
              /It's not just Rat Hitler who remembers them, Wes and Jay have a positive reputation with many Scavenfolk for what they 
-             did.
+             did. Relevant for post timeskip. 
  
--Unnamed Scaven bids them adieu, but he warns them that the Scaven have felt a terrible omen. They warn Wes and Jay that evil grows stronger, and the Scaven can only do so much to help them.
+-Unnamed Scaven bids them adieu, but he warns them that the Scaven have felt a terrible omen. [Many strange feet march the earth] They warn Wes and Jay that evil grows stronger, and the Scaven can only do so much to help them.
+             /Establishes that the Scaven are very weak at this time, and can't do much more than help them with tiny things. This is 
+             important, because it actually means something that Rat Hitler was able to unify them.
  
+-Heroes escape the Sewer. They emerge in the ashes of the Northeast town. 
+             /Tiny thing, but it makes it clear how Rat Hitler was able to escape the Boss. The underground/sewer has a direct access              
+             point from this town, which he was able to get to when the Boss arrived.
  
+-Heroes have one thing on their mind- Revenge. They don't know where [Recurring Antagonist 1] lives, but they do know that  [Recurring Antagonist 2] controls the Eastern town, so they make their way there. They aren't sure that [Recurring Antagonist 2] was in on trying to kill them, but they're suspicious, and he's a good place for them to start. 
+             /Heroes behave in a human way. They're angry at the man who betrayed them. 
  
+-Heroes travel to the Eastern Village. 
+             /Sixth leveling section. Things are changing. More enemies. 
  
+-Heroes get to the Eastern Village. Some people are missing. They arrive at the home of [Recurring Antagonist 2] who's shocked to see them alive. He orders his guards to attack them, and flees. The heroes are forced to fight two powerful enemies, and are unable to chase after [Recurring Antagonist 2].
+             /Establishes he's not only a coward, but he also expected them to die. They know he's evil as well now. Minibosses. 
  
+-Heroes defeat the guards, but [Recurring Antagonist 2] is long gone. They decide that seeing as both [Recurring Antagonist 1] and [Recurring Antagonist 2] appear to be in league with the Ancient Evil, if they find the source, they can't be far away. 
+             /Logical conclusion. Moves plot forward. 
  
+-Events
  
- 
+-The heroes encounter /qst/. He tells them that a black tower that has sprouted from the earth, corrupting and poisoning all that it touches. The underlings of the ancient evil appear to be congregating around it. The Ancient Evil has finally acquired enough power to begin manifesting itself. 
+             /The transition to Approach The Innermost cave. 
  
  
  
@@ -267,16 +272,20 @@ It's the build up to fighting the bbeg.
  
 I figured a good way to implement a serious tone is to have the antagonists represent some of the topics wished to address.
  
- -On the way to Todd, they encounter [Recurring Antagonist 1]. He has a powerful minion at his side, but is powerful on his own.
+ -On the way to Todd, they encounter [Recurring Antagonist 1]. He has a powerful minion at his side, but is powerful on his own. He's surprised to see them alive, but not concerned. 
 	/I'm thinking of a way to make this guy represent loneliness, and lacking people who understand the way one thinks. 	 	 
  	Although he's surrounded by minions who will do his every request, none of them particularily like him, and he has no one with 
   	whom he can talk to. Sounds a bit simple now but I'm working on it.
  
  
--On the way to Todd, they encounter [Recurring Antagonist 2]. He's alone. [Recurring Antagonist 2] has been established to be a very weak, frail individual, but does something to themselves and suddenly becomes incredibly powerful. Perhaps he drinks a cursed potion. Makes a contract with a demon. Something of this nature.
+-On the way to Todd, they encounter [Recurring Antagonist 2]. He's alone. [Recurring Antagonist 2] has been established to be a very weak, frail individual, but does something to themselves and suddenly becomes incredibly powerful. Perhaps he drinks a cursed potion. Makes a contract with a demon. Something of this nature. [He'll totally quote bane too]
 	/I want to make him represent failure, Self Hatred, and people's challenges in accepting what they cannot change.  His 
   	weakness disgusted him, and so he horrendously damaged himself in order to achieve strength because he was not able to accept 
   	the hand that had been dealt to him. If it sounds like shit, I'm still working on it. 
+ 
+-Finally, they reach the peak of the tower. Wes is shocked- It's Todd! He's the unending evil!
+	/Final boss...?
+ 
  
 -Upon arriving at Todd, they encounter [Recurring Antagonist 3] At Todd's side. Todd's confident that with [Recurring Antagonist 3] at his side, he can defeat you. Upon getting hit the first time, [Recurring Antagonist 3] will flee from the fight, abandoning Todd. Need to tie up that loose end though.
 	/This gentleman will represent suicide. Suicide's like ragequitting when you're losing. You don't face the loss, but your team 		 
