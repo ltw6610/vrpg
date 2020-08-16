@@ -85,7 +85,7 @@ Game_CharacterBase.prototype._patSpd = 0;
 // Draw Char in menus
 Galv.CF.Galv_Window_Base_drawCharacter = Window_Base.prototype.drawCharacter;
 Window_Base.prototype.drawCharacter = function(characterName, characterIndex, x, y) {
-	var setFrame = characterName.match(/\%\((.*)\)/i);
+	var setFrame = characterName.match(/\[(.*)\]/i);
 	
 	if (setFrame) {
 		this._cframes = Number(setFrame[1]);
@@ -106,7 +106,7 @@ Window_Base.prototype.drawCharacter = function(characterName, characterIndex, x,
 
 Galv.CF.Galv_Sprite_Character_setCharacterBitmap = Sprite_Character.prototype.setCharacterBitmap;
 Sprite_Character.prototype.setCharacterBitmap = function() {
-	var setFrame = this._characterName.match(/\%\((.*)\)/i);
+	var setFrame = this._characterName.match(/\[(.*)\]/i);
 	if (setFrame) {
 		this._cframes = Number(setFrame[1]);
 		this._character._spattern = 0;
