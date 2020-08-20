@@ -1,12 +1,11 @@
 PLOT
-An ancient evil awakens. A prophecy says only an older brother and his imouto can defeat him, and so our protagonists, Wes and Jay, set off to defeat the evil. Joined by boardtans, Our heroes travel through the world, gathering power and friends to defeat the ancient evil. The evil is confronted and is revealed to be Todd Howard, who wishes to turn all of reality in a port of Skyrim. Protags defeats him, and the world is saved. 
+An ancient evil awakens. A prophecy says only an older brother and his imouto can defeat him, and so our protagonists, Wes and Jay, set off to defeat the evil. Joined by boardtans, Our heroes travel through the world, gathering power and friends to defeat the ancient evil. The evil is confronted and is revealed to be Hodd Toward, who wishes to turn all of reality in a port of Skyrim. Protags defeats him, and the world is saved. 
 (Maybe) Because you cannot climb mountains in DQ1, and Skyrim is incredibly mountainous, this would result in the end of the world as everyone would starve to death. 
  
  
 Don't forget:
 ? The game will be silly, but have serious moments that cover loneliness, depression, lack of motivation and other topics.
  (This not difficult to implement in the least)
-? I hate furries with a passion beyond all human comprehension.
 ? Chekov's gun
  
 REMEMBER!
@@ -59,23 +58,29 @@ ________________________________________________________________________________
 -Hoe is not currently present. 
 	/Setting
  
--Moe is engrossed in an MMO.
+-Moe is playing an MMO, or occupied in some other manor.
 	/In character behavior. Establishes she's not focused on what's currently going on around her.
  
 -Wes is practicing clipping through walls with a wooden plate. 
-	/In character behavior. Establishes he's not paying attention to Jay at this time.
+	/In character behavior. Establishes he's not paying attention to Jay at this time. Skill will be used later. 
  
  
 _______________________________________________________________________________________________________________________________________
 2 Call To Adventure (Hey Buddy I think you got the wrong door)
 _______________________________________________________________________________________________________________________________________
--Jay break's Wes' computer while attempting to buy enchanted body pillows on tor using Dogecoin.
-	/It's a silly call to adventure. Wes and Jay are silly characters.
+-Jay break's Wes' computer while attempting to buy enchanted body pillows on tor using Dogecoin. 
+OR
+-Jay is looking up uncensored screenshots from a PS5 exclusive waifu game, but wanders into a Russian/Chinese scam site. Also empties the pairs bank accounts, thus having the beginning with no money regardless of your background part of rpgs.
+	/How she breaks his PC can be changed at a later date. 
+ 
+-Interacting with pc gives prompt: 'technology is incredible! *mumble mumble* ...store and recall... *mumble* ...data via PC! *mumble*'
  
 They're forced to go in search of /g/ to repair Wes' PC. 
-A messenger tells them the King wants to speak with them. 
-Wes and Jay are told by the king they are the only ones who can defeat the Ancient Evil. 
+After they speak with The Shopkeeper (you know the one) regarding the location of /g/, A messenger tells them the King wants to speak with them. 
 Jay mentions to Wes he shouldn't get sidetracked on sidequests but he tells her "It's the Journey, not the destination".
+ 
+Wes and Jay are told by the king they are the only ones who can defeat the Ancient Evil. 
+ 
  
 They arrive in the castle, the King tells them the prophecy. 
 Wes immediately asks what the reward is.
@@ -94,7 +99,7 @@ King is troubled. Jay is at a loss for words.
 Wes does multiple barter checks. This doesn't need to be programmed in to have the option of doing a barter check. Just have it as
 [Barter 50] etc etc etc, [Barter 75] etc etc etc,  [Barter 100] etc etc etc. 
 King offers Wes and Jay something substantial. Access to the entire Kingdom's Armoury.
-King also gives them /adv/, the fairy in a jar (like Navi, get it?) that gives them useless advice.
+King also gives them /adv/, the fairy in a jar (Advis) that gives them useless advice.
  
 Wes accepts, but decides to ignore the quest regardless.
 Wes and Jay leave, they make their way back home to get their equipment before going on the quest.
@@ -116,14 +121,14 @@ ________________________________________________________________________________
 	/Bit of a trope, protags leave their home and it's destroyed, but it's a good way of progressing the story, so I've used it.
  
 -All that is revealed is the silhouette of /v/. 
-	/The only time /v/ is seen before his fight. It is not apparent Todd is controlling him until the party actually fights him.
+	/The only time /v/ is seen before his fight. It is not apparent Hodd is controlling him until the party actually fights him.
  
 -The home has collapsed, destroying most of their things, and killing Moe. 
 	/This makes things personal for Wes and Jay.
  	"No one kills my Moe"
  
 -Some of their more valuable items are also missing entirely. 
-	/Foreshadowing, for when Todd fights them kitted out in this gear. It removes and doubt he was behind this, without 					 
+	/Foreshadowing, for when Hodd fights them kitted out in this gear. It removes and doubt he was behind this, without 					 
   	explicitly stating it.
  
 They search the ruins of their home for anything useful that hasn't been destroyed, and Jay finds a Necromancy potion belonging to Moe.
@@ -148,8 +153,16 @@ ________________________________________________________________________________
 -A merchant has made it to the bridge with a wagon of his goods. /tg/ is there, chatting with [Unspecified Individual] about military tactics. It is mentioned to the party that they may be able to find help in the east to cross the bridge.
 	/ Spot to buy items.
  
--Arriving at the town in the NE, a [Recurring Antagonist 1] is caught in the grip of the first boss, [Unspecified Monster 1]. [Unspecified Monster 1] spots Party, changes focus. [Unspecified Monster 1] Dialogue here. Boss fight begins.
+-Arriving at the town in the NE, a [Recurring Antagonist 1] is caught in the grip of the first boss, [Unspecified Monster 1]. [Unspecified Monster 1] spots Party, changes focus. Note: Boss needs to have a specific theme. One that would have a logical weakness. 
+Doesn't need to have an implemented weakness, just the idea that one could exist. Brief conversation between party and boss follows. Boss reveals he's a servant of the ancient evil, and that he and many more are destroying infrastructure to cripple the Kingdom's defenses.
 	/ First boss.
+ 
+-/adv/ says, Wait, I can actually be useful here, see, there`s this things called weaknesses and this boss is we-
+-Boss uses powerful ranged attack and instantly kills Advis.
+ 
+-System prompt : Advis is dead. 
+  	       : No one can help you now.
+   	         Boss fight begins. 
  
 -Upon victory, [Recurring Antagonist 1] thanks you for saving him. [Recurring Antagonist 1] calls in a favour and tells the Party that they'll be able to cross the bridge now. 
 	/ Progression.
@@ -157,7 +170,7 @@ ________________________________________________________________________________
 -Should the heroes enter the village, it's full of happy Scavenfolk, who've been gradually moving to the surface. Pre Timeskip Rat Hitler is here, though he's just a happy painter. They can restock here.
   	/Worldbuilding. Chance to buy items/rest.
  
--Back at the bridge, a group of large workers on the payroll of [Recurring Antagonist 1] have formed. [Recurring Antagonist 1] is not there. The workers are strong and hate working for [Recurring Antagonist 1]. The bridge for Todd will take days, but for the party an especially large lumberjack fells a large tree and secures it to cross the river. 
+-Back at the bridge, a group of large workers on the payroll of [Recurring Antagonist 1] have formed. [Recurring Antagonist 1] is not there. The workers are strong and hate working for [Recurring Antagonist 1]. The bridge for Hodd will take days, but for the party an especially large lumberjack fells a large tree and secures it to cross the river. 
 	/ Enter new area of the continent. Additional party member can join here. Opportunity to introduce /diy/, Side characters work 
  	to build world- Always someone stronger than the protagonists, and in this scenario it's just some lumberjack/diy.
  
@@ -178,7 +191,7 @@ ________________________________________________________________________________
   	escape to the sewers. 
  
 -Descending down below, [Recurring Antagonist 2] can be seen being cornered by humanoid figures. The gang intercept. 
-	/ New type of enemy. Keep in touch with Todd. Foreshadowing for later confrontation.
+	/ New type of enemy. Keep in touch with Hodd. Foreshadowing for later confrontation.
  
 -Behind [Recurring Antagonist 2] lie several other humanoid figures, slain by [Recurring Antagonist 2] unbeknownst to the party.
 	/ Favorite anime trope. [Recurring Antagonist 2] is powerful, but the characters won't know that until it's too late.
@@ -190,7 +203,7 @@ ________________________________________________________________________________
 	/ Third leveling section.
  
 -The party arrives inside the burning village. In the center, surrounded by flames and ash, is a powerful minion of the ancient evil. 
-he's got fire based abilities. Dialogue with Heroes follows. It'll be sick edgy stuff about fire and purification, killing rats, the symbol of pestilence, you'll love it I promise. 
+he's got fire based abilities. Dialogue with Heroes follows. It'll be sick edgy stuff about fire and purification, killing rats, the symbol of pestilence, you'll love it I promise. Give him a line about burning Javascript to the ground.
 	/Third boss fight. Demonstrates the ancient evil is actively harming the world. It's not just vague talk, there are people 	 
  	being brutally killed by the envoys of this entity.
  
@@ -265,39 +278,36 @@ he's got fire based abilities. Dialogue with Heroes follows. It'll be sick edgy 
 _______________________________________________________________________________________________________________________________________
 7 Approach the Innermost Cave
 _______________________________________________________________________________________________________________________________________
-Leading up to facing Todd the first time.
+Leading up to facing Hodd the first time.
  
 The innermost cave is a bit like World 8 in super mario bros, you dig?
 It's the build up to fighting the bbeg. 
  
 I figured a good way to implement a serious tone is to have the antagonists represent some of the topics wished to address.
  
- -On the way to Todd, they encounter [Recurring Antagonist 1]. He has a powerful minion at his side, but is powerful on his own. He's surprised to see them alive, but not concerned. 
+ -On the way to Hodd, they encounter [Recurring Antagonist 1]. He has a powerful minion at his side, but is powerful on his own. He's surprised to see them alive, but not concerned. 
 	/I'm thinking of a way to make this guy represent loneliness, and lacking people who understand the way one thinks. 	 	 
  	Although he's surrounded by minions who will do his every request, none of them particularily like him, and he has no one with 
   	whom he can talk to. Sounds a bit simple now but I'm working on it.
  
  
--On the way to Todd, they encounter [Recurring Antagonist 2]. He's alone. [Recurring Antagonist 2] has been established to be a very weak, frail individual, but does something to themselves and suddenly becomes incredibly powerful. Perhaps he drinks a cursed potion. Makes a contract with a demon. Something of this nature. [He'll totally quote bane too]
+-On the way to Hodd, they encounter [Recurring Antagonist 2]. He's alone. [Recurring Antagonist 2] has been established to be a very weak, frail individual, but does something to themselves and suddenly becomes incredibly powerful. Perhaps he drinks a cursed potion. Makes a contract with a demon. Something of this nature. [He'll totally quote bane too]
 	/I want to make him represent failure, Self Hatred, and people's challenges in accepting what they cannot change.  His 
   	weakness disgusted him, and so he horrendously damaged himself in order to achieve strength because he was not able to accept 
   	the hand that had been dealt to him. If it sounds like shit, I'm still working on it. 
  
--Finally, they reach the peak of the tower. Wes is shocked- It's Todd! He's the unending evil!
+-Finally, they reach the peak of the tower. Wes is shocked- It's Hodd! He's the unending evil!
 	/Final boss...?
  
  
--Upon arriving at Todd, they encounter [Recurring Antagonist 3] At Todd's side. Todd's confident that with [Recurring Antagonist 3] at his side, he can defeat you. Upon getting hit the first time, [Recurring Antagonist 3] will flee from the fight, abandoning Todd. Need to tie up that loose end though.
-	/This gentleman will represent suicide. Suicide's like ragequitting when you're losing. You don't face the loss, but your team 		 
- 	mates do. By having [Recurring Antagonist 3] abandon Todd, I'm trying to convey that everyone has someone who depends on them, 
-  	no matter who they are. Todd's victory was certain with his ally, but the loss of his ally has left him troubled and uncertain.
+ 
 _______________________________________________________________________________________________________________________________________
 8 The Supreme Ordeal (I'll show you who's the boss of this Gym)
 _______________________________________________________________________________________________________________________________________
-The Heroes fight Todd, and triumph over him.
+The Heroes fight Hodd, and triumph over him.
  
-Todd will be geared up, Hammer of Song in hand, etc, but he'll still look like a normal human being, for the most part. 
-Todd's Gear is partially composed of the items that were missing from the home of Wes, Jay, Moe, and Hoe. 
+Hodd will be geared up, Hammer of Song in hand, etc, but he'll still look like a normal human being, for the most part. 
+Hodd's Gear is partially composed of the items that were missing from the home of Wes, Jay, Moe, and Hoe. 
  
  
  
@@ -313,7 +323,7 @@ It could be a seemingly useless item that does nothing right until the very end 
  
 You could have a scene where the king offers like his entire treasury, full of legendary items making Jay salivate, but then Wes just picks up one weird cylinder-item that just says "MO"
  
-Then, once Todd Howard becomes Godd Howard, he drops one of his D's, which the party obtains as an Item as Todd becomes God Howard.
+Then, once Hodd Howard becomes Ghodd Toward, he drops one of his D's, which the party obtains as an Item as Hodd becomes Ghod Toward.
  
 Wes later uses that dropped D on the incomplete item, forming MOD, cuing into a scene like
 >What will you, players be, without us devs!? Bow down to us and become Skyrim!
@@ -329,7 +339,7 @@ The Heroes go to a cemetery to mourn those that they lost over their adventure.
  
 They see /v/, for the first time in the game 
 /v/ is undead
-/v/ has Todd's severed head, and is digging up m00t's grave
+/v/ has Hodd's severed head, and is digging up m00t's grave
 /v/ throws the head into moots grave, then https://youtu.be/X4monaBsyfg?t=182
  
  
@@ -338,15 +348,16 @@ They see /v/, for the first time in the game
 _______________________________________________________________________________________________________________________________________
 11 Death, and then Resurrection (Things become incredibly bleak. Nevertheless, in the end, the heroes triumph.)
 _______________________________________________________________________________________________________________________________________
-Todd absorbs m00t
-Todd gains absolute power
-At some point during Todd's revival, the Hammer of Song taken back by /v/ or Todd or whoever is allied with them.
+Hodd absorbs m00t
+Hodd gains absolute power
+At some point during Hodd's revival, the Hammer of Song taken back by /v/ or Hodd or whoever is allied with them.
  
-[Todd freezes the party in time. He's afraid they'll just immediately kill him again] 
-During this period, Todd ports too many ero mods into reality, creating the coomlands???
+Hodd freezes the party in time. He's afraid they'll just immediately kill him again] 
+During this period, Hodd ports too many ero mods into reality, creating the coomlands???
  
+They awaken in their home a decade later.
  
-Heroes need to kill the Coomer to gain access to the coomlands
+Heroes need to kill the Coomer (Or some similar creature) to gain access to the coomlands
 Literal hell
 Only people happy are the nsfw board tans
 COOMLANDS?????
@@ -375,7 +386,7 @@ They drown him in his own bugs and glitches.
 "What brought life into his games now takes it from him"?
  
  
-I want Moe to make a Hunt down the freeman reference for shits and giggles, because it's thanks to Todd she's a Skeleton.
+I want Moe to make a Hunt down the freeman reference for shits and giggles, because it's thanks to Hodd she's a Skeleton.
 "You fucked up my face"
 https://youtu.be/f2x94k7bHc0?t=20
  
@@ -424,21 +435,21 @@ Eventually Wes and Jay leave.
 Edited version.
  
 King:
-Scions of the bloodline of /vr/, hero of legend!
+Scions of the bloodline of [______], hero of legend!
 Long have I awaited thy coming! 
 In days of yore, thy revered ancestor did receive of the Almighty m00t the Hammer of Song. 
 By its power was our world cleansed of the cancer which did beset it.
 Yet, alas, some few years past, there did arise a new threat--the Unending Evil. 
 With his awakening, he did steal away the Hammer of Song from us, plunging the land into darkness once more. 
 Should this state of affairs allowed to continue, the cancer will surely take unrelenting hold, and our realm perish. 
-The Prophecy foretold of a Brother and Sister, bearing the blood of /vr/, who together alone could banish this evil. 
+The Prophecy foretold of a Brother and Sister, bearing the blood of [_______], who together alone could banish this evil. 
 So I say to thee, of the bloodline of heroes, vanquish this Ancient Evil, and reclaim the Hammer of Song!"
  
  
  
  
-I called Todd the Unending Evil because of the unending Skyrim re-releases.
-The Hammer of Song is just a placeholder. My thoughts were Song => Music => Bands => The B& Hammer. The B& Hammer has the ability to alter reality, but can only be used effectively by one who understands it, that being m00t. Someone who doesn't understand the Hammer can do simple things, but they don't have the power m00t possessed. The idea here was that in the absence of m00t, cancer/darkness has spread, and only The B& Hammer, which has been lost to Todd, can undo this. Todd wishes to unlock the power of the B& Hammer in order to gain to change reality into a port of Skyrim?
+I called Hodd the Unending Evil because of the unending Skyrim re-releases.
+The Hammer of Song is just a placeholder. My thoughts were Song => Music => Bands => The B& Hammer. The B& Hammer has the ability to alter reality, but can only be used effectively by one who understands it, that being m00t. Someone who doesn't understand the Hammer can do simple things, but they don't have the power m00t possessed. The idea here was that in the absence of m00t, cancer/darkness has spread, and only The B& Hammer, which has been lost to Hodd, can undo this. Hodd wishes to unlock the power of the B& Hammer in order to gain to change reality into a port of Skyrim?
  
  
  
@@ -448,5 +459,7 @@ The Hammer of Song is just a placeholder. My thoughts were Song => Music => Band
 _______________________________________________________________________________________________________________________________________
 currently re organizing the misc ideas section.
  
-Alternate ending where Fatlus kills Wes and takes his armour to flirt with Jay.
-Jay actually ends up happier in this ending than the true ending.
+>/r/ represents loneliness, he does requests not for the money, but for the social contact
+>/biz/ represents failure, self Hatred, and people's challenges in accepting what they cannot change, self-explanatory
+>His weakness disgusted him, and so he horrendously damaged himself in order to achieve strength because he was not able to accept the hand that had been dealt to him.
+>becomes a Wojak
